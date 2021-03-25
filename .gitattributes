@@ -1,1 +1,5 @@
+# File Line Endings
 * text=auto
+
+# Git LFS
+*.png filter=lfs diff=lfs merge=lfs -text
